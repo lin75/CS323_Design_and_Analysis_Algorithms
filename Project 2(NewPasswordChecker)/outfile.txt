@@ -1,0 +1,28 @@
+Create your password
+Password Rule
+1) password is shorter than 8 
+2) password is long than 32
+3) password contains one or two special symbols that are not legal
+4) password does not contain at least one numerical
+5) password does not contain at least one upper case letter
+6) password does not contain at least one lower case letter
+7) password does not contain at least one of legal special characters
+Please enter your password
+1sA(sssss^
+Please retype the password
+1sA(sssss
+Match fail... 
+Create your password
+Password Rule
+1) password is shorter than 8 
+2) password is long than 32
+3) password contains one or two special symbols that are not legal
+4) password does not contain at least one numerical
+5) password does not contain at least one upper case letter
+6) password does not contain at least one lower case letter
+7) password does not contain at least one of legal special characters
+Please enter your password
+1sA(sssss^
+Please retype the password
+1sA(sssss^
+your password will be updated in a few minutes
